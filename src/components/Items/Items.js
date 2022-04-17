@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ItemModal from "./ItemModal/ItemModal";
+import ItemModal from "../ItemModal/ItemModal";
 import "./items.css";
 const Items = () => {
   const [data, setData] = useState([]);

@@ -1,6 +1,10 @@
 #modal-dialog .content {
   padding: 20px 20px 0 20px;
 }
+ul.nav.justify-content-center.my-5.bg-dark.py-3.text-white h2,
+ul.nav.justify-content-center.my-5.bg-dark.py-3.text-white h5 {
+  color: #fff;
+}
 #modal-dialog .content h5 {
   font-size: 14px;
   font-size: 0.875rem;
